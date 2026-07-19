@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Berjin Sujith</h1>
-<h3 align="center">A passionate self-taught Java Full Stack Developer | Prefinal Year Mechanical Engineering Student</h3>
+<h3 align="center">A passionate self-taught Java Full Stack Developer | Final Year Mechanical Engineering Student</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I’m currently a **Prefinal Year Mechanical Engineering Student**
+- 🎓 I’m currently a **Final Year Mechanical Engineering Student**
 - 💻 I’m a **self-taught developer** passionate about building backend systems using **Java and Spring Boot**
 - 🌱 I’m currently learning **Spring Boot, MySQL, and REST APIs**
 - 💬 Ask me about **Java, OOP, Spring Boot, and backend development**
-- 🎯 My Goal: To become a **Java Full Stack Developer** and get placed in a **product-based company**
+- 🎯 My Goal: To become a **Java Full Stack Developer**
 - ⚡ Fun fact: I’m from a mechanical background, but I code like an IT geek 😎
 
 ---
@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
